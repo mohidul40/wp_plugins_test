@@ -6,3 +6,4 @@ echo "Maria";
 echo "New Update";
 echo "Student Update";
 echo "Teacher Update";
+echo "New Update";
